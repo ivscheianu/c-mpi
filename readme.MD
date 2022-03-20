@@ -12,4 +12,4 @@
 - ```run mpiexec -n x Name``` where n is the number of physical cores and Name is the name of the binary.
 - E.g.: ```C:\Users\Ionut\source\repos\DirectSort\Debug>mpiexec -n 4 DirectSort```
 
-The detailed comparison is attached in ```comparison.pdf```
+The detailed comparison is attached in [comparison.pdf](https://github.com/ivscheianu/c-mpi/blob/main/comparison.pdf) (including computation/communication/execution/total times).
